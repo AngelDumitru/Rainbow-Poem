@@ -4,7 +4,8 @@ The rainbow
 purple
 pink
 orange 
-blue 
+blue
+Indigo
 green
 Unicorn
 yelow
