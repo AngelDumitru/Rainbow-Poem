@@ -4,6 +4,7 @@ The rainbow
 purple
 pink
 orange 
+resolved issues
 blue
 Indigo
 green
